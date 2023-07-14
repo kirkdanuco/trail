@@ -1,0 +1,26 @@
+.center {
+    /* border: 1px solid; */
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    text-align: center;
+  }
+
+h1 {
+color: #100F3F;
+width: 75%;
+}
+
+p {
+    color: #504A9D;
+    size: 12 px;
+    font: medium;
+  } /* adjusting the paragraph */
+
+body {
+background: scroll;
+background-color: #DEDEEF;
+background-image: url("images/Social Media/Medium Baby - Instagram Posts-05.png");
+background-repeat: repeat;
+background-position: center;
+}
